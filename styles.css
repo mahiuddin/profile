@@ -1,0 +1,202 @@
+body{
+  font-size: 20px;
+}
+.ls-4{
+  letter-spacing: 30px;
+}
+.pt-6,
+.py-6 {
+  padding-top: 20rem !important;
+}
+
+.pr-6,
+.px-6 {
+  padding-right: 5rem !important;
+}
+
+.pb-6,
+.py-6 {
+  padding-bottom: 5rem !important;
+}
+
+.pl-6,
+.px-6 {
+  padding-left: 5rem !important;
+}
+
+/* This is the header section */
+.header{    
+  background-color:black;
+  color:white;
+  padding: 50px;
+  font-size:20px;
+}
+
+/* This is the left side of the header section */
+.headerleft{
+  float:left;
+  padding-right:150px;
+}
+
+.headermiddle{
+  float: left;
+  padding-right:150px;
+}
+
+.headerright{
+  float: left;
+}
+
+.header2{
+  color:black;
+}
+
+.headerimg{
+  float: left;
+}
+
+.namemiddle{
+  float:left;
+  padding: 250px 0px 0px 20px; 
+}
+
+.namemiddle > b{
+  font-size: 30px;
+  color:rgb(16, 133, 179);
+}
+
+.headerbackroundimg{
+  float: right;
+  background-image: url("headerimg.jpg");
+  height: 255px;
+  width: 790px; 
+}
+
+.objective > h1{
+  clear: left;
+  padding-top:50px; 
+  background-color:white;
+  color:rgb(16, 133, 179);
+}
+
+.skill > h1 {
+  color:rgb(16, 133, 179);
+   
+}
+
+.training > h1{
+  /* background-color:white; */
+  color:rgb(16, 133, 179) 
+}
+
+.awards{
+  /* background-color: slategrey; */
+}
+.awards > h1{
+  height:50px;
+  /* background-color:white; */
+  color:rgb(16, 133, 179)
+}
+
+.development > h1{
+  height:50px;
+  /* background-color:white; */
+  color:rgb(16, 133, 179) 
+}
+
+.history > h1{
+  height: 20px;
+  color:rgb(16, 133, 179) 
+}
+
+.history{
+  padding-bottom:5px;
+}
+
+.historyleft{
+  float:left;
+}
+
+.historyright{
+  float: left;
+  padding-left:150px;
+}
+
+.keyleft{
+    clear: left;
+    padding-right:70px;
+}
+
+.webdevelopment{
+    padding:0px 40px 0px 40px;
+}
+
+.systemadminstration{
+    padding:20px 50px 10px 50px;
+}
+
+.others{
+    /* height:40px; */
+    padding:20px 50px 10px 50px;
+}
+
+.dateleft{
+    float:left;
+}
+
+.placeright{
+    float:left;
+    padding-left:150px ;
+}
+
+.responsibilitiesleft{
+  clear:left;
+}
+
+.clearleft{
+  clear: left;
+}
+
+.dateyearleft{
+  float: left;
+}
+
+.integratedright{
+  float:left;
+  padding-left:150px;
+}
+
+.keresponleft{
+  clear:left;
+  
+}
+
+
+.project > h1{
+  /* height:70px; */
+  color:rgb(16, 133, 179);
+}
+
+.details > h1{
+  /* height:80px; */
+  color:rgb(16, 133, 179);
+   
+}
+
+.personalleft{
+  float:left;
+}
+
+.personalright{
+  float:left;
+  padding-left:100px;
+}
+
+.referees > h1{
+  height: 50px;
+  color:rgb(16, 133, 179) 
+} 
+
+.managerleft{
+  padding-top: 10px;
+}
